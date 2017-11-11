@@ -5,3 +5,6 @@ node_modules
 logs
 apidocs/
 pid_file
+.idea/
+build/
+package-lock.json
